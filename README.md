@@ -12,6 +12,7 @@
 - Itens pendentes:
   - [ ] Sintetizar som semelhante ao de um piano;
   - [ ] Adicionar mais teclas;
+  - [ ] Adicionar mapa de teclas do teclado do dispositivo que correspondem as do piano;
   - [ ] Permitir alterar a quantidade de teclas;
   - [ ] Percorer pelos intervalos;
   - [ ] Alterar layout da aplicação;
