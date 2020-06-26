@@ -37,6 +37,7 @@ const Key = ({ note, actionKey, sharp, hasSharp, handleClick }) => {
         simulateHoverLeave(note, className)
       }
     })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (
