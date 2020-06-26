@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'MuseoModerno';
-  src: url('../assets/font/MuseoModerno-VariableFont_wght.ttf') format('ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
 
 html,
 body {
