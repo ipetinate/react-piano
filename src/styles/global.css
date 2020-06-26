@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MuseoModerno';
+  src: url('../assets/font/MuseoModerno-VariableFont_wght.ttf') format('ttf');
+}
+
+html,
+body {
+  font-family: 'MuseoModerno', cursive;
+}
